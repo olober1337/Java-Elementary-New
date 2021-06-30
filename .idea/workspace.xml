@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c97080fc-c698-43bd-8dd3-a9c261b7fabf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework/Main.java" afterDir="false" />
+    <list default="true" id="c97080fc-c698-43bd-8dd3-a9c261b7fabf" name="Default Changelist" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.classwork2.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson6.classwork.Main" />
       <module name="Hillel Java Course New" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.classwork2.*" />
+          <option name="PATTERN" value="lesson6.classwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.classwork.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.classwork2.Main" />
       <module name="Hillel Java Course New" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson6.classwork.*" />
+          <option name="PATTERN" value="lesson2.classwork2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,10 +144,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -163,8 +163,23 @@
       <workItem from="1624037703830" duration="244000" />
       <workItem from="1624038182394" duration="4746000" />
       <workItem from="1624114040225" duration="28990000" />
-      <workItem from="1624777427141" duration="8979000" />
+      <workItem from="1624777427141" duration="9294000" />
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1625075380219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625075380219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1625075558533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625075558533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,5 +195,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
 </project>
